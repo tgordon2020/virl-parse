@@ -9,11 +9,11 @@ with a .virl extension will be parsed.
 
 The script will create a subdirectory named from the parsed filename_virl.  That directory will contain
 
-* devices.text
+* devices.txt
   * each device type
   * each device physical interfaces
 
-* connections.text
+* connections.txt
   * physical connections between devices
 
 * *devicename*.txt
