@@ -17,5 +17,5 @@ The script will create a subdirectory named from the parsed filename_virl.  That
   * physical connections between devices
 
 * *devicename*.txt
-  * Configuration from device in virl.
+  * Configuration from device in virl
 
