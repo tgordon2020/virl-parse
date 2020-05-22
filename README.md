@@ -10,12 +10,12 @@ with a .virl extension will be parsed.
 The script will create a subdirectory named from the parsed filename_virl.  That directory will contain
 
 * devices.text
- * each device type
- * each device physical interfaces
+  * each device type
+  * each device physical interfaces
 
 * connections.text
- * physical connections between devices
+  * physical connections between devices
 
 * *devicename*.txt
- * Configuration from device in virl.
+  * Configuration from device in virl.
 
