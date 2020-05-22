@@ -1,4 +1,4 @@
-#virl-parse
+# virl-parse
 
 Python script to parse device configurations, interfaces, and device connections from topology files exported from VIRL.
 The intention is to make it simpler to import VIRL exported toplogies into either GNS3 or physical devices. I have had success running 
